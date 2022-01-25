@@ -9,3 +9,9 @@ A basic project to build a calculator, intended as an introduction to PyQt5. The
 ```
 pip install -r requirements.txt
 ```
+
+### Running the calculator
+Run the calculator using the following command from terminal, inside the project directory:
+```
+python calculator.py
+```
